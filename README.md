@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prj99
 - 👀 I’m interested in AI & ML and python
-- 🌱 I’m currently learning BTech CSE (AI with ML)
+- 🌱 I’m currently pursuing BTech CSE (AI with ML)
 - 💞️ I’m looking to collaborate on opensource and any projects
 - 📫 mail me on prajwalghadole@gmail.com
 
